@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "827353549557",
+    "project_id": "taxi-reserve",
+    "storage_bucket": "taxi-reserve.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:827353549557:android:6cbd00772a8097bbac13bc",
+        "android_client_info": {
+          "package_name": "com.taxireserve.taxi_reserve"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "827353549557-23fjf7a7oqgp6dutjq9e1og8tb8g5scf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.taxireserve.taxi_reserve",
+            "certificate_hash": "fc8f2f3be1dde0013d12b51f0550f0151c376e4d"
+          }
+        },
+        {
+          "client_id": "827353549557-2ks10ndo757m6u7rm2fsqeottju99efd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpct0gj70ihxowokV8CBPjzGDQ4hmhh7M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "827353549557-2ks10ndo757m6u7rm2fsqeottju99efd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
